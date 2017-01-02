@@ -1,0 +1,9 @@
+{
+	"defaults":
+	[
+		{
+			"package_name": "openssl",
+			"package_version": "openssl-1.0.1k-14.91.amzn1.x86_64"
+		}
+	]
+}
